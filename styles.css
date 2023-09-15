@@ -8,6 +8,7 @@ body {
     flex-direction: column;
     width: 100vw;
     font-family: Verdana, Tahoma, sans-serif;
+    height: 100vh;
     height: -webkit-fill-available;
 }
 
